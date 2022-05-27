@@ -1,0 +1,17 @@
+h1
+{
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: larger;
+    padding: 10px;
+    white-space: wrap;
+    text-size-adjust: 100%;
+}
+.Scores
+{
+    width: 100%;
+    text-decoration: overline underline;
+   text-align: center;
+}
